@@ -1,3 +1,6 @@
+#Solution for problem:
+#https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0
+
 tests_input = int(input())
 
 size_input, sum_input, array_input = ([None] * tests_input for i in range(3))
